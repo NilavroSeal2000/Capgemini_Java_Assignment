@@ -9,7 +9,7 @@ public class AssignmentB8 {
 		int n;
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
-		int temp = 0, r = 1, s = 0, i;
+		int temp = 0, r = 1, s = 0;
 		temp = n;
 		while (temp != 0) {
 			r = temp % 10;
@@ -22,5 +22,6 @@ public class AssignmentB8 {
 
 			System.out.println(s + " is not a palindrome number");
 		}
+		sc.close();
 	}
 }

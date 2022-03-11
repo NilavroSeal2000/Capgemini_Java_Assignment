@@ -8,6 +8,7 @@ public class AssignmentC13 {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		System.out.println(a + " makes " + (a / 30) + " months " + " and " + (a % 30) + " days.");
+		sc.close();
 	}
 
 }

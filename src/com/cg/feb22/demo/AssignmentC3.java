@@ -16,5 +16,6 @@ public class AssignmentC3 {
 			System.out.println("Smallest even number not smaller than given number is "+ (a+1));
 			System.out.println("Largest odd number not larger than given number is "+ (a-2));
 		}
+		sc.close();
 	}
 }

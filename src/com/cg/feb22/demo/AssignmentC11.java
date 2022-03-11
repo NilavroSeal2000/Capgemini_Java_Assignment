@@ -9,6 +9,7 @@ public class AssignmentC11 {
 		int a = sc.nextInt();
 		for (int i = 1; i <= 10; i++)
 			System.out.println(i + "*" + a + "=" + (a * i));
+		sc.close();
 	}
 
 }

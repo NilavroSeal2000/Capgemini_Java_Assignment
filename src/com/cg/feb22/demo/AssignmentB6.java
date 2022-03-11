@@ -16,6 +16,6 @@ public class AssignmentB6 {
 			}
 			System.out.println("Factorial of the number is " + fact);
 		}
-
+		sc.close();
 	}
 }

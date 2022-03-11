@@ -1,6 +1,6 @@
 package com.cg.feb22.practice;
 
-import java.lang.reflect.Array;
+//import java.lang.reflect.Array;
 
 public class ArrayClass {
 	public static void main(String[] args) {
